@@ -1,0 +1,9 @@
+G:\Test9地图页面布局\Test9\Test9\Test9\bin\Debug\Test9.exe
+G:\Test9地图页面布局\Test9\Test9\Test9\bin\Debug\Test9.pdb
+G:\Test9地图页面布局\Test9\Test9\Test9\obj\x86\Debug\Test9.MainForm.resources
+G:\Test9地图页面布局\Test9\Test9\Test9\obj\x86\Debug\Test9.Properties.Resources.resources
+G:\Test9地图页面布局\Test9\Test9\Test9\obj\x86\Debug\Test9.csproj.GenerateResource.cache
+G:\Test9地图页面布局\Test9\Test9\Test9\obj\x86\Debug\Test9.csproj.CoreCompileInputs.cache
+G:\Test9地图页面布局\Test9\Test9\Test9\obj\x86\Debug\Test9.exe
+G:\Test9地图页面布局\Test9\Test9\Test9\obj\x86\Debug\Test9.pdb
+G:\Test9地图页面布局\Test9\Test9\Test9\obj\x86\Debug\Test9.csprojAssemblyReference.cache

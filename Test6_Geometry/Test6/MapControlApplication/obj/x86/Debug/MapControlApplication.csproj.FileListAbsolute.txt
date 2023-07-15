@@ -1,0 +1,17 @@
+E:\Test\Test6\MapControlApplication\bin\Debug\MapControlApplication.exe
+E:\Test\Test6\MapControlApplication\bin\Debug\MapControlApplication.pdb
+E:\Test\Test6\MapControlApplication\bin\Debug\ESRI.ArcGIS.Geometry.dll
+E:\Test\Test6\MapControlApplication\bin\Debug\ESRI.ArcGIS.Geometry.xml
+E:\Test\Test6\MapControlApplication\obj\x86\Debug\MapControlApplication.MainForm.resources
+E:\Test\Test6\MapControlApplication\obj\x86\Debug\MapControlApplication.Properties.Resources.resources
+E:\Test\Test6\MapControlApplication\obj\x86\Debug\MapControlApplication.csproj.GenerateResource.cache
+E:\Test\Test6\MapControlApplication\obj\x86\Debug\MapControlApplication.csproj.CoreCompileInputs.cache
+E:\Test\Test6\MapControlApplication\obj\x86\Debug\MapControlApplication.csproj.CopyComplete
+E:\Test\Test6\MapControlApplication\obj\x86\Debug\MapControlApplication.exe
+E:\Test\Test6\MapControlApplication\obj\x86\Debug\MapControlApplication.pdb
+E:\Test\Test6\MapControlApplication\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+E:\Test\Test6\MapControlApplication\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+E:\Test\Test6\MapControlApplication\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+E:\Test\Test6\MapControlApplication\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+E:\Test\Test6\MapControlApplication\obj\x86\Debug\MapControlApplication.FrmSelectLayer.resources
+E:\Test\Test6\MapControlApplication\obj\x86\Debug\MapControlApplication.FrmTxtToShp.resources

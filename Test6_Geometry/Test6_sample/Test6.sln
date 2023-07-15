@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapControlApplication", "MapControlApplication\MapControlApplication.csproj", "{C2B5D335-BDB6-4CB0-BF92-DC416CFBE09D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2B5D335-BDB6-4CB0-BF92-DC416CFBE09D}.Debug|x86.ActiveCfg = Debug|x86
+		{C2B5D335-BDB6-4CB0-BF92-DC416CFBE09D}.Debug|x86.Build.0 = Debug|x86
+		{C2B5D335-BDB6-4CB0-BF92-DC416CFBE09D}.Release|x86.ActiveCfg = Release|x86
+		{C2B5D335-BDB6-4CB0-BF92-DC416CFBE09D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7479D7BD-18F4-4AD5-8A34-741C9C01268A}
+	EndGlobalSection
+EndGlobal

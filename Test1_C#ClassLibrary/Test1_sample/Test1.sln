@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{EACF069F-58D8-43AE-8591-57317C916046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPrime", "FindPrime\FindPrime.csproj", "{8EABC5CA-86A0-4447-A4A3-05E81AF4D009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goldbach", "Goldbach\Goldbach.csproj", "{480230B7-5FCB-4F7E-AA73-6958B669991B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACF069F-58D8-43AE-8591-57317C916046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACF069F-58D8-43AE-8591-57317C916046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACF069F-58D8-43AE-8591-57317C916046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACF069F-58D8-43AE-8591-57317C916046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EABC5CA-86A0-4447-A4A3-05E81AF4D009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EABC5CA-86A0-4447-A4A3-05E81AF4D009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EABC5CA-86A0-4447-A4A3-05E81AF4D009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EABC5CA-86A0-4447-A4A3-05E81AF4D009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{480230B7-5FCB-4F7E-AA73-6958B669991B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480230B7-5FCB-4F7E-AA73-6958B669991B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480230B7-5FCB-4F7E-AA73-6958B669991B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480230B7-5FCB-4F7E-AA73-6958B669991B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25DEF237-4279-49D3-BBD0-06FB84449DE4}
+	EndGlobalSection
+EndGlobal

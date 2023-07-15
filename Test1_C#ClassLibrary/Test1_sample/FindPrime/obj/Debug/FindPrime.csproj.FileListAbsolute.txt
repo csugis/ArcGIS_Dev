@@ -1,0 +1,6 @@
+F:\Test1\FindPrime\bin\Debug\FindPrime.exe.config
+F:\Test1\FindPrime\bin\Debug\FindPrime.exe
+F:\Test1\FindPrime\bin\Debug\FindPrime.pdb
+F:\Test1\FindPrime\obj\Debug\FindPrime.csproj.CoreCompileInputs.cache
+F:\Test1\FindPrime\obj\Debug\FindPrime.exe
+F:\Test1\FindPrime\obj\Debug\FindPrime.pdb

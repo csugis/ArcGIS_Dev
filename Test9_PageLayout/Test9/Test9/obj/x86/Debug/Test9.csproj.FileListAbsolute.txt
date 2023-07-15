@@ -1,0 +1,9 @@
+E:\录屏文件\Test9\Test9\bin\Debug\Test9.exe
+E:\录屏文件\Test9\Test9\bin\Debug\Test9.pdb
+E:\录屏文件\Test9\Test9\obj\x86\Debug\Test9.csprojAssemblyReference.cache
+E:\录屏文件\Test9\Test9\obj\x86\Debug\Test9.MainForm.resources
+E:\录屏文件\Test9\Test9\obj\x86\Debug\Test9.Properties.Resources.resources
+E:\录屏文件\Test9\Test9\obj\x86\Debug\Test9.csproj.GenerateResource.cache
+E:\录屏文件\Test9\Test9\obj\x86\Debug\Test9.csproj.CoreCompileInputs.cache
+E:\录屏文件\Test9\Test9\obj\x86\Debug\Test9.exe
+E:\录屏文件\Test9\Test9\obj\x86\Debug\Test9.pdb
