@@ -1,9 +1,0 @@
-E:\录屏文件\Test8\Test8\bin\Debug\Test8.exe
-E:\录屏文件\Test8\Test8\bin\Debug\Test8.pdb
-E:\录屏文件\Test8\Test8\obj\x86\Debug\Test8.csprojAssemblyReference.cache
-E:\录屏文件\Test8\Test8\obj\x86\Debug\Test8.MainForm.resources
-E:\录屏文件\Test8\Test8\obj\x86\Debug\Test8.Properties.Resources.resources
-E:\录屏文件\Test8\Test8\obj\x86\Debug\Test8.csproj.GenerateResource.cache
-E:\录屏文件\Test8\Test8\obj\x86\Debug\Test8.csproj.CoreCompileInputs.cache
-E:\录屏文件\Test8\Test8\obj\x86\Debug\Test8.exe
-E:\录屏文件\Test8\Test8\obj\x86\Debug\Test8.pdb

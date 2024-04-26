@@ -1,6 +1,0 @@
-E:\Test\Test1\Goldbach\bin\Debug\Goldbach.exe.config
-E:\Test\Test1\Goldbach\bin\Debug\Goldbach.exe
-E:\Test\Test1\Goldbach\bin\Debug\Goldbach.pdb
-E:\Test\Test1\Goldbach\obj\Debug\Goldbach.csproj.CoreCompileInputs.cache
-E:\Test\Test1\Goldbach\obj\Debug\Goldbach.exe
-E:\Test\Test1\Goldbach\obj\Debug\Goldbach.pdb

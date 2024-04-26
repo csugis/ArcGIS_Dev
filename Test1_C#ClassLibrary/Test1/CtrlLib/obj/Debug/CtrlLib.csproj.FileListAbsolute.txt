@@ -1,7 +1,0 @@
-E:\Test\Test1\CtrlLib\bin\Debug\CtrlLib.dll
-E:\Test\Test1\CtrlLib\bin\Debug\CtrlLib.pdb
-E:\Test\Test1\CtrlLib\obj\Debug\CtrlLib.csproj.CoreCompileInputs.cache
-E:\Test\Test1\CtrlLib\obj\Debug\CtrlLib.dll
-E:\Test\Test1\CtrlLib\obj\Debug\CtrlLib.pdb
-E:\Test\Test1\CtrlLib\obj\Debug\CtrlLib.CtrlCalculate.resources
-E:\Test\Test1\CtrlLib\obj\Debug\CtrlLib.csproj.GenerateResource.cache
